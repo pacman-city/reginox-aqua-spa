@@ -2,16 +2,6 @@
   "name": "reginox",
   "version": "1.0.0",
   "description": "responsive web site",
-  "author": "byteofmonkey",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:byteofmonkey/REGINOX.git"
-  },
-  "bugs": {
-    "url": "https://github.com/byteofmonkey/REGINOX/issues"
-  },
-  "homepage": "https://github.com/byteofmonkey/REGINOX",
   "scripts": {
     "client": "cd client && npm run start",
     "server": "nodemon server.js",
